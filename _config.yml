@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Site Title"
+title                    : "Gim Jonny의 개발블로그"
 title_separator          : "-"
-subtitle                 : "version 1.0" # site tagline that appears below site title in masthead
+subtitle                 : "Gim Jonny의 개발블로그" # site tagline that appears below site title in masthead
 name                     : "Gim Jonny"
 description              : "올바른 방향으로"
 url                      : "https://jonnygim.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -106,9 +106,9 @@ analytics:
 author:
   name             : "Gim Jonny"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "올바른 **방향** 으로 나아가는 개발자!"
+  bio              : "올바른 **방향** 으로 나아가자!"
   location         : "Republic of Korea"
-  email            :
+  email            : "jonnygim.dev@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
